@@ -8,7 +8,7 @@
 
 **Domain** : Cloud Computing
 
-**Duration** : 6 Weeks
+**Duration** : 6 Weeks 
 
 **Mentor** : Neela Santosh
 
